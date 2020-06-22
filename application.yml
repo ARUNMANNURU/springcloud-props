@@ -1,3 +1,7 @@
 spring:
   banner:
-    location: banner.txt 
+    location: banner.txt
+
+spring:
+  r2dbc:
+    name: test 
