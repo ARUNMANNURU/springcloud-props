@@ -1,5 +1,3 @@
 spring:
   banner:
     location: banner.txt
-  r2dbc:
-    name: test 
